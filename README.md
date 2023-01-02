@@ -14,8 +14,8 @@ npm run start:dev
 
 ## Docker File
 
-Get started by running
-Determine which env file should configured (dev,qas,prod) and set them to NODE_ENV in Dockerfile
+#Get started by running
+##Determine which env file should configured (dev,qas,prod) and set them to NODE_ENV in Dockerfile
 
 ```bash
 docker build -t nest-api .
